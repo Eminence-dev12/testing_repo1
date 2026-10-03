@@ -8,7 +8,9 @@ def feature2():
         return True
     else:
         return False
-        activate = False
+              
+activate = False
+print("feature activation")
 if activate:
     feature()
 else:
