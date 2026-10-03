@@ -4,4 +4,7 @@ def feature():
     print("feature debugged")
 activation = False
 while activation:
-    feature()
+    if activation:
+        feature()
+    else:
+        print("feature failed")
