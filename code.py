@@ -6,5 +6,6 @@ activation = False
 print("currently chekicking out branch branch")
 while activation:
     # feature()
-    print("feature under maintainence :)")
+    print("feature under maintenance :)")
+    
 
