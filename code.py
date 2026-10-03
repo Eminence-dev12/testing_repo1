@@ -5,3 +5,5 @@ def feature():
 activate = False
 if activate:
     feature()
+else:
+    print("feature failed")
