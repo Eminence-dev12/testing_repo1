@@ -1,7 +1,8 @@
 print("hello world")
-def feature():
-    print("feature activated")
-    print("feature debugged")
+# def feature():
+#     print("feature activated")
+#     print("feature debugged")
 activation = False
 while activation:
-    feature()
+    # feature()
+    print("feature under maintainence :)")
