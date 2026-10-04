@@ -5,7 +5,7 @@ def feature(text):
 activation = False
 print("currently chekicking out branch branch")
 while activation:
-    #feature("I love trees")
+    feature("I love trees")
     print("Feature is under maintenance, we apologise for the inconvenience!")
     
 
