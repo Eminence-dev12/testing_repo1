@@ -1,8 +1,9 @@
-def feature(text):
-    print("feature activated")
-    print(text)
+# def feature(text):
+#     print("feature activated")
+#     print(text)
 activation = False
 while activation:
-    feature("I love trees")
+    text = input("what would u like to do today?: ")
+    print("one" + text + "coming up!")
 
 
