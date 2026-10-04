@@ -4,5 +4,6 @@ print("hello world")
 #     print("feature debugged")
 activation = False
 while activation:
-    # feature()
+    text =  input("What do u want  to say?: ")
+    print(text)
     print("feature under maintainence :)")
